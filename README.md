@@ -65,5 +65,7 @@ Step 2: ->depending on which tokenization strategy you want to run the model wit
     			trg_vocab: "data/{name}/m_word.vocab" 
 
 Step 3 : ->Run all cells
+
 Step 4 : ->You will uploaad the evaluationg and training datasets on one of the cells
+
 Step 5 : ->Sit back and wait for the model to run.
