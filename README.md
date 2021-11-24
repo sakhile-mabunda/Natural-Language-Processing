@@ -7,6 +7,7 @@ Step 1: ->Import the notebook to google colab
 
 Step 2: ->depending on which tokenization strategy you want to run the model with
 	->Under "Creating the JoeyNMT Config"
+		
 		if you want to run with char replace the data section with
 		
 		data:
